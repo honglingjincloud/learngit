@@ -5,12 +5,8 @@ Git tracks changes of files.
 hahahahahahaha
 creating a new branch is quick & simple.
 happy
-<<<<<<< HEAD
 azhe
 bukaixin
 kaixin
-
-
-=======
 what
->>>>>>> 21864ad (what)
+
